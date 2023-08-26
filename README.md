@@ -2,7 +2,7 @@
 
 Welcome to the Tic Tac Toe repository! This project brings to you a classic game implemented in Python, allowing you to enjoy the timeless fun of Tic Tac Toe right from your command line.
 
-![Tic Tac Toe](https://example.com/tic_tac_toe_screenshot.png)
+![Tic Tac Toe](https://raw.githubusercontent.com/Ram2020-art/Tic-tac-toe/main/IMG_20230826_134956.jpg)
 
 ## Overview
 
