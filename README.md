@@ -46,3 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Get ready to engage in some strategic battles of Tic Tac Toe! Feel free to reach out with any questions or feedback. Happy gaming!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2RVETH)
